@@ -3,7 +3,7 @@
 
 ***Concept:*** Consider there are 1000 Public bins in and around the City. With Smart Bin, if only 100 bins are full, the application dedicated for the authorities will generate a route only to the necessary bins. This saves time and is more efficient than the current conventional method.
 
-***My vision:*** This is a passion project and everything will be open source. So anyone can Implement this idea. The vision is to develop a culture around using technology for the betterment and not to with-hold any ideas that can potentially change the way we perseve the world.
+***My Vision:*** This is a passion project and everything will be open source. So anyone can Implement this idea. The vision is to develop a culture around using technology for the betterment and not to with-hold any ideas that can potentially change the way we perseve the world.
 
 ***Version: v0.01 (as of last push)***
 
