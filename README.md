@@ -1,4 +1,4 @@
-# Smart-Bin A-Smart-India-Initiative
+# Smart-Bin | A-Smart-India-Initiative
 ***Smart Bin*** is an IoT based Real-Time Public Garbage Monitoring System. It collects significant data required to determine the status of the Waste Bins and notifies the sanitation authorities in real time.
 
 ***Concept:*** This is a Smart India Initiative. Consider there are 1000 Public bins in and around the City. With Smart Bin, if only 100 bins are full, the application dedicated for the authorities will generate a route only to the necessary bins. This saves time and is more efficient than the current conventional method.
